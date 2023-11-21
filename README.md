@@ -1,4 +1,4 @@
-## Olá, eu sou o Jordan 
+## Olá, eu sou o Jordan!
 
   Estudo Engenharia de Produção pela UFMG, mas acabei me apaixonando por Data Science.
   
